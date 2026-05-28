@@ -1,19 +1,19 @@
 # 🤖 AI Chatbot using Flask & Gemini AI
 
-A smart AI chatbot built using **Python Flask** and **Google Gemini AI**.
-The chatbot supports both **text chat** and **voice input** for real-time conversations.
+An AI-powered chatbot developed using **Python Flask** and **Google Gemini AI**.
+The chatbot generates intelligent real-time responses using Generative AI and provides a simple and interactive web interface for users.
 
-This project uses Generative AI to understand user questions and generate intelligent responses instantly.
+Users can ask questions through a chat interface and receive AI-generated responses instantly.
 
 ---
 
 # 🚀 Features
 
 * AI-powered chatbot
-* Real-time responses
-* Text and voice search
+* Real-time response generation
+* Text-based conversation
 * Gemini AI integration
-* Simple and responsive UI
+* Responsive web interface
 * Flask backend API
 
 ---
@@ -25,7 +25,7 @@ This project uses Generative AI to understand user questions and generate intell
 * HTML
 * CSS
 * JavaScript
-* Google Gemini AI
+* Google Gemini AI API
 
 ---
 
@@ -48,8 +48,6 @@ ai-chatbot-project/
 
 # ⚙️ Installation
 
-## Install Dependencies
-
 ```bash
 pip install flask google-genai python-dotenv
 ```
@@ -58,7 +56,7 @@ pip install flask google-genai python-dotenv
 
 # 🔑 Environment Variable
 
-Create a `.env` file:
+Create a `.env` file and add:
 
 ```env
 GEMINI_API_KEY=YOUR_API_KEY
@@ -82,18 +80,9 @@ http://127.0.0.1:5000
 
 ---
 
-# 🎤 Voice Search
-
-The chatbot supports voice input using browser microphone access.
-
-Recommended Browser:
-
-* Google Chrome
-
----
-
 # 📌 Future Improvements
 
+* Voice search support
 * Chat history
 * OCR integration
 * Multi-language support
