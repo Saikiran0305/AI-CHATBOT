@@ -106,5 +106,7 @@ Recommended Browser:
 ## Telugu Saikiran
 
 Artificial Intelligence & Machine Learning Student
+
 GitHub: https://github.com/Saikiran0305
+
 LinkedIn: https://www.linkedin.com/in/telugu-saikiran-0b768136a/ 
